@@ -30,7 +30,7 @@ lang: en-us # used in HTML lang attributes
 greeting:
   title: Welcome!
   text: I'm Carol Sun, a second-year student at Caltech studying computer science. 
-  I'm currently interested in machine learning, graphics, photography, cooking, and crafts, just to name a few.
+  <br>I'm currently interested in machine learning, graphics, photography, cooking, and crafts, just to name a few.
 # - displayed at the bottom
 closing-head: Thanks for visiting!
 closing-para: Feel free to email me at cksun (at) caltech (dot) edu
