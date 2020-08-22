@@ -11,7 +11,7 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Carol K. Sun
+title: Carol Sun
 description: Software Engineering
 owner:
   name: Carol Sun # or company name
